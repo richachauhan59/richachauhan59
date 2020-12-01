@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack Developer</h3>
   
  <p align="center">
-  <img src=https://i.pinimg.com/originals/df/39/2f/df392fb90619818047bf4f09e0adbc36.gif >
+  <img src=https://static.vecteezy.com/system/resources/previews/000/230/130/original/female-web-developer-illustration-vector.jpg >
  </p> 
   
 <p align="center">
