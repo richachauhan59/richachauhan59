@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <span><img width="50px" height="50px" src="https://media1.giphy.com/media/PjgnBBmpk2iwhv1IO6/200w.webp?cid=ecf05e47zcb0thagktxj6xoag3zisvcm92z1mgwr8hirvmcj&rid=200w.webp" /></span>, Richa Chauhan here!</h1>
+<h1 align="center">Hi <span><img width="50px" height="50px" src="https://thumbs.gfycat.com/HeartyDifferentGentoopenguin-small.gif" /></span>, Richa Chauhan here!</h1>
 
 <h3 align="center">Full Stack Developer</h3>
   
