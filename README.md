@@ -3,7 +3,7 @@
 
 <h3 align="center">Full Stack Developer</h3>
   
- <p align="center" height="100" width="100"  >
+ <p align="center" height="50" width="50"  >
   <img src=https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif >
  </p> 
   
